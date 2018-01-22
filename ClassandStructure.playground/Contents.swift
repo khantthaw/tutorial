@@ -141,14 +141,4 @@ stu1.identity.passport = 23417834
 print("For Student 1 Object")
 print("Name : \(stu1.name),Age : \(stu1.age), Address : \(stu1.address),Identity :\(stu1.identity.passport)")
 print("For Student 1 Object: Committed by KKL")
-
-print("testing by nssn")
-
-
-print("second test by nssn")
-
-print("Testing conflicts file by nssn")
-
-
-print("Testing conflicts file by liang")
-
+print("For Student 1 Object: Committed by KKL")
